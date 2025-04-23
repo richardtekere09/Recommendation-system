@@ -91,6 +91,7 @@ __pypackages__/
 .env
 .venv
 .venv-mlrecsys
+.DS_store
 env/
 venv/
 ENV/
