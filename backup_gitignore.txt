@@ -90,6 +90,7 @@ __pypackages__/
 # Environments
 .env
 .venv
+.venv-mlrecsys
 env/
 venv/
 ENV/
