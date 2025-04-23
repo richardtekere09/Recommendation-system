@@ -50,6 +50,8 @@ __pypackages__/
 .env
 .venv
 env/
+.venv-mlrecsys
+.DS_store
 venv/
 ENV/
 env.bak/
